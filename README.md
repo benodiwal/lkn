@@ -1,1 +1,1 @@
-# lkn (Lode Ka Network) Protocol
+# lkn Protocol
