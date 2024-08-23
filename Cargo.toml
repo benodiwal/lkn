@@ -2,5 +2,11 @@
 name = "lkn"
 version = "0.1.0"
 edition = "2021"
+description = "lkn protocol"
+license = "MIT"
+authors = ["Sachin Beniwal <sachinbeniwal0101@gmail.com>"]
+readme = "README.md"
 
 [dependencies]
+etherparse = "0.15.0"
+tun-tap = "0.1.4"
